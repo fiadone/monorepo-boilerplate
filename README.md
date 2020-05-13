@@ -33,7 +33,7 @@ yarn add -DW [module, ...]
 To create a new module, simply run the command below:
 
 ```
-npm run new-packages [name]
+yarn run new-packages [name]
 ```
 
 It will create a *packages/[name]* folder and some essential files within.
